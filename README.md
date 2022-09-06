@@ -9,7 +9,7 @@ Youtube-Clone
 
 
 ## ⚙️ Funcionalidades:
-  - Feed: mostrando so vídeos 
+  - Feed: card de videos
   - Search: de videos
   - Tags: e canais na barra de navegação a esquerda
   - Home: retorna a página inicial a partir do momento que se clica no botão de youtube
